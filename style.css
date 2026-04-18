@@ -18,10 +18,10 @@ p {
 }
 
 .header {
-  height: 660px;
-  background-image: url(./images/IMG_3765.JPEG);
+  height: 250px;
+  background-image: url(./images/Code.jpg);
   background-size: cover;
-  background-repeat: no-repeat;
+  /* background-repeat: no-repeat; */
   background-position-y: -575px;
 }
 
