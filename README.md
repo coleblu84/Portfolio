@@ -1,22 +1,33 @@
 # 📸 Portfolio
-- **Welcome to my personal Portfolio page.** 
-  - This was a redesign from an old project. Why change something that you like that works. This is a one page webpage made for the purpose of being a Profolio page. 
-- You are welcome to us the code for your porfolio page. The only ask is that you give credit where credit is due. 
 
-## ⚡Original Project
-here is the original link to show the difference and improvements. 
+Welcome to my personal portfolio page!
 
-[O.G. Project](https://github.com/coleblu84/about_me_project.git)
+This project is a redesign of an earlier build. I wanted to take something that already worked and elevate it—improving both the design and functionality while keeping the core idea intact. The result is a clean, one-page portfolio that highlights who I am and what I’m building as a developer.
 
-## 🎨 Updates 
-- Header completing redo.
-- new images & card information.
-- all cards where turn into a flippable card using JS.
-- Footer removed. 
+*Feel free to use this project as inspiration for your own portfolio. If you do, please give credit where it’s due.*
+
+
+## ⚡ Original Project
+
+Want to see how far this project has come?
+
+Check out the original version here:  
+👉 [Original Project](https://github.com/coleblu84/about_me_project.git)
+
+
+## 🎨 Updates & Improvements
+
+- Complete redesign of the header section  
+- Updated images and card content  
+- Converted static cards into interactive **flip cards (JavaScript)**  
+- Improved layout and overall user experience  
+- Cleaned up styling for a more modern look  
+
 
 ## 💬 Feedback Welcome
 
-I’m always learning and improving!
-If you notice anything that could be better — whether it’s performance, code structure, accessibility, styling, or a sneaky bug — feel free to open an issue, submit a suggestion, or reach out.
+I’m always learning and improving.
 
-I appreciate any ideas or insights that can help me grow as a developer. 🙌
+If you notice anything that could be better—whether it’s performance, code structure, accessibility, styling, or even a small bug—feel free to open an issue or share feedback.
+
+I appreciate any ideas or insights that help me grow as a developer. 🙌
