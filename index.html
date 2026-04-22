@@ -3,6 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <title>C.J.'s Portfolio</title>
+    <link rel="shortcut icon" type="image" href="./images/favicon.jpg" />
     <link rel="stylesheet" href="style.css" />
   </head>
 
@@ -10,6 +11,9 @@
     <header class="header">
       <div class="overlay">
         <h1 class="header_title">Carlie (C.J.) Cole</h1>
+        <p class="header_subtitle">
+          Full-Stack Software Developer | Building Front-End Experiences
+        </p>
       </div>
     </header>
 
@@ -25,7 +29,18 @@
           </div>
 
           <div class="card__back">
-            <p class="card__description"></p>
+            <p class="card__description">
+              I’m Carlie (C.J.) Cole, a retail manager turned web developer who
+              enjoys building clean, responsive, and user-friendly applications.
+              With 20+ years of leadership experience, I bring a
+              detail-oriented, problem-solving mindset and a people-first
+              approach into tech. I’m currently focused on growing my skills in
+              full-stack development and creating meaningful digital
+              experiences. I enjoy turning ideas into functional solutions and
+              continuously challenging myself to learn new tools and
+              technologies. My goal is to build applications that not only work
+              well but also provide a seamless and engaging user experience.
+            </p>
           </div>
         </div>
       </div>
@@ -54,7 +69,53 @@
             <img src="./images/SM.jpg" class="card__image" />
           </div>
 
-          <div class="card__back"></div>
+          <div class="card__back">
+            <div class="social-grid">
+              <a
+                href="https://dot.cards/coleblu84"
+                target="_blank"
+                class="social-item"
+              >
+                <img
+                  src="images/DBC.png"
+                  alt="Business Card"
+                  class="social-icon"
+                />
+                <span>Business Card</span>
+              </a>
+
+              <a
+                href="https://www.linkedin.com/in/coleblu84"
+                target="_blank"
+                class="social-item"
+              >
+                <img
+                  src="./images/linkedin.webp"
+                  alt="LinkedIn"
+                  class="social-icon"
+                />
+                <span>LinkedIn</span>
+              </a>
+
+              <a
+                href="https://github.com/coleblu84"
+                target="_blank"
+                class="social-item"
+              >
+                <img
+                  src="./images/GitHub.jpg"
+                  alt="GitHub"
+                  class="social-icon"
+                />
+                <span>GitHub</span>
+              </a>
+
+              <a href="mailto:coleblu84@gmail.com" class="social-item">
+                <img src="./images/email.png" alt="Email" class="social-icon" />
+                <span>Email</span>
+              </a>
+            </div>
+          </div>
         </div>
       </div>
 
@@ -92,13 +153,6 @@
       <p class="footer__text">Created and design by: C.J. Cole</p>
     </footer>
 
-    <!-- JS -->
-    <script>
-      document.querySelectorAll(".card").forEach((card) => {
-        card.addEventListener("click", () => {
-          card.classList.toggle("flipped");
-        });
-      });
-    </script>
+    <script src="script.js"></script>
   </body>
 </html>
