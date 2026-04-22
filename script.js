@@ -1,7 +1,7 @@
 document.querySelectorAll(".card").forEach((card) => {
-  const front = card.querySelector(".card__front");
+  card.addEventListener("click", (e) => {
+    if (e.target.closest("a")) return;
 
-  front.addEventListener("click", () => {
     card.classList.toggle("flipped");
   });
 });

@@ -88,6 +88,21 @@ p {
   border-radius: 16px;
   overflow: hidden;
 }
+.card.flipped .card__front {
+  pointer-events: none;
+}
+
+.card.flipped .card__back {
+  pointer-events: auto;
+}
+
+.card__back {
+  z-index: 2;
+}
+
+.card__front {
+  z-index: 1;
+}
 
 /* FRONT */
 .card__front {
@@ -184,16 +199,17 @@ p {
   color: black;
   font-size: 14px;
   gap: 8px;
+  transition: transform 0.2s ease;
 }
 
 .social-icon {
-  width: 90px;
-  height: 90px;
+  width: 95px;
+  height: 95px;
   object-fit: contain;
   transition: transform 0.2s ease;
 }
 
-.social-item:hover .social-icon {
+.social-item:hover {
   transform: scale(1.15);
 }
 
