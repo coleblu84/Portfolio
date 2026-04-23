@@ -19,7 +19,7 @@ Want to see how far this project has come?
 Check out the original version here:  
 👉 [Repository](https://github.com/coleblu84/about_me_project.git) 
 
-👉 [Live demo](#)
+👉 [Live demo](https://coleblu84.github.io/about_me_project/)
 
 ## ✨ Features
 
