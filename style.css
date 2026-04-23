@@ -63,7 +63,7 @@ p {
 
 .card__description {
   font-size: 40px;
-  line-height: 1.8;
+  line-height: 1.82;
   max-width: 100%;
   letter-spacing: 0.3px;
 }
@@ -211,6 +211,33 @@ p {
 
 .social-item:hover {
   transform: scale(1.15);
+}
+
+/* card 2 */
+.skills-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+  width: 100%;
+}
+
+.skills-group {
+  text-align: left;
+}
+
+.skills-group h3 {
+  margin-bottom: 10px;
+  font-size: 20px;
+}
+
+.skills-group ul {
+  list-style-type: disc;
+  padding-left: 20px;
+}
+
+.skills-group li {
+  font-size: 16px;
+  margin-bottom: 6px;
 }
 
 /* footer */
