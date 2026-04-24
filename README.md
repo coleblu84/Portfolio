@@ -6,20 +6,18 @@ This project is a redesign of an earlier build. I wanted to take something that 
 
 *Feel free to use this project as inspiration for your own portfolio. If you do, please give credit where it’s due.*
 
-## 🌐 Live Demo
-Live interactive version of the portfolio:
+## 🌐 Live site
 
-👉 [Portfolio](#)
+👉 [Portfolio](https://coletechstack.com/)
 
-For all you coders out there - Here is the link you are looking for.
+## 📂 Repository
 
 👉 [Repository](https://github.com/coleblu84/Portfolio.git)
 
 ## ⚡ Original Project
 
-Want to see how far this project has come?
+See how far this project has come:  
 
-Check out the original version here:  
 👉 [Repository](https://github.com/coleblu84/about_me_project.git) 
 
 👉 [Live demo](https://coleblu84.github.io/about_me_project/)
