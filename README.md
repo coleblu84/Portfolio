@@ -9,8 +9,11 @@ This project is a redesign of an earlier build. I wanted to take something that 
 ## 🌐 Live Demo
 Live interactive version of the portfolio:
 
-[Portfolio](#)
+👉 [Portfolio](#)
 
+For all you coders out there - Here is the link you are looking for.
+
+👉 [Repository](https://github.com/coleblu84/Portfolio.git)
 
 ## ⚡ Original Project
 
