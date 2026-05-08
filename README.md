@@ -4,13 +4,13 @@ Welcome to my personal portfolio page!
 
 This project is a redesign of an earlier build. I wanted to take something that already worked and elevate it—improving both the design and functionality while keeping the core idea intact. The result is a clean, one-page portfolio that highlights who I am and what I’m building as a developer.
 
-*Feel free to use this project as inspiration for your own portfolio. If you do, please give credit where it’s due.*
+*This project is open-source & licensed under Creative Commons Attribution 4.0. Please see the license section for usage terms.*
 
 ## 🌐 Live site
 
 👉 [Portfolio](https://coletechstack.com/)
 
-## 📂 Repository
+## 📂 Source Code
 
 👉 [Repository](https://github.com/coleblu84/Portfolio.git)
 
@@ -62,6 +62,12 @@ This project helped me strengthen my understanding of:
 
 I’m always learning and improving.
 
-If you notice anything that could be better—whether it’s performance, code structure, accessibility, styling, or even a small bug—feel free to open an issue or share feedback.
+If you notice anything that could be better—whether it’s performance, code structure, accessibility, styling, or even a small bug—feel free to open an issue or share feedback.🙌
 
-I welcome any feedback on performance, structure, accessibility, or design.🙌
+## 🪪 License
+
+This project is licensed under the Creative Commons Attribution 4.0 International License.
+
+You are free to use, modify, and build upon this project for personal or commercial use, as long as appropriate credit is given.
+
+See the LICENSE file for full details.
